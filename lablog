@@ -1,0 +1,8 @@
+cat ../02-msa2circos/*ASIM* simplex_cavallero.txt
+cat ../02-msa2circos/*ASIM* > simplex_cavallero.txt
+cat ../02-msa2circos/*ANAS* > simplex_llorens.txt
+cat ../02-msa2circos/*Unigene*AP* > pegreffii_baird.txt
+cat ../02-msa2circos/*TRINITY* > pegreffii_cavallero.txt
+cat ../02-msa2circos/*ANAP* > pegreffii_llorens.txt
+cat ../02-msa2circos/*ANAH* > hybrid_llorens.txt
+
